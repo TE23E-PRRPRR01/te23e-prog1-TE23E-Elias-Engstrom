@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{1BC574A2-532E-44E0-BA3B-6D24E5C270D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Kapitel-1", "Kapitel-1", "{34901F32-E102-4C78-B9F9-2E5CE87EAD24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Registering", "Kapitel-1\Registering\Registering.csproj", "{A72D1ACB-BABA-4D0B-B337-5C07500DD117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BC574A2-532E-44E0-BA3B-6D24E5C270D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC574A2-532E-44E0-BA3B-6D24E5C270D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC574A2-532E-44E0-BA3B-6D24E5C270D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC574A2-532E-44E0-BA3B-6D24E5C270D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72D1ACB-BABA-4D0B-B337-5C07500DD117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72D1ACB-BABA-4D0B-B337-5C07500DD117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72D1ACB-BABA-4D0B-B337-5C07500DD117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72D1ACB-BABA-4D0B-B337-5C07500DD117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A72D1ACB-BABA-4D0B-B337-5C07500DD117} = {34901F32-E102-4C78-B9F9-2E5CE87EAD24}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E979E43-B2B0-44CF-B9BF-21482E97E079}
+	EndGlobalSection
+EndGlobal
