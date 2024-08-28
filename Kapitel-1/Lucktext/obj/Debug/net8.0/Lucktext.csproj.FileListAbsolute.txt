@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-1\Lucktext\bin\Debug\net8.0\Lucktext.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-1\Lucktext\bin\Debug\net8.0\Lucktext.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-1\Lucktext\bin\Debug\net8.0\Lucktext.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-1\Lucktext\bin\Debug\net8.0\Lucktext.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-1\Lucktext\bin\Debug\net8.0\Lucktext.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-1\Lucktext\obj\Debug\net8.0\refint\Lucktext.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-1\Lucktext\obj\Debug\net8.0\ref\Lucktext.dll
