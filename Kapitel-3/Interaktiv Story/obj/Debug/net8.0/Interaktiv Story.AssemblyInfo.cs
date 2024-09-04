@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Interaktiv Story")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+332b9e8db6e6d5b931f3bdcd196631adb6942b21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48b28172a45c08895e1215ebb45c8cce5770d18a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Interaktiv Story")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Interaktiv Story")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
