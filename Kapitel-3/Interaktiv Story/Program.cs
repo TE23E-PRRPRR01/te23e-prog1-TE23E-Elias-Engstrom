@@ -1,42 +1,24 @@
-﻿Console.Clear();
-Console.WriteLine("Welcome to the Dungeon Adventure!");
-Console.WriteLine("You find yourself at the entrence of a dark dungeon. ");
-Console.WriteLine("Do you want to enter? (yes/no)");
+Console.Clear();
+Console.WriteLine("Vill du spela lite granna? (y/n)");
 
-string answer1 = "yes"
+string spela = Console.ReadLine();
 
-if (answer1 == "yes")
+if (spela == "y")
 {
-    Console.WriteLine("You step into the dungeon and see two paths.");
-    Console.WriteLine("Do you take the left path or the right path? (left/right)");
-
-    string answer2 = "left"
-
-    if (answer2 == "left")
+    Console.WriteLine("Du vaknar upp i en tätskog och ser två vägar, vänster eller höger.");
+    Console.WriteLine("Vart går du? (höger/vänster)");
+    spela = Console.ReadLine();
+    if (spela == "höger")
     {
-        Console.WriteLine("You encounter a sleeping dragon.");
-        Console.WriteLine("Do you try to sneak past or fight it? (sneak/fight)");
-
-        string answer3 = "sneak"
-
-        if (answer3 == "sneak")
-        {
-            Console.WriteLine("You succesfully sneak past the dragon and find a treasure chest. You win!");
-
-        }
-        else if (answer3 == "fight")
-        {
-            Console.WriteLine("The dragon wakes up and defeats you. Game Over.");
-
-        }
-        else
-        {
-            Console.WriteLine("Invalid choice. Game Over.");
-        }
-
+        Console.WriteLine("Du kommer fram till en liten lägereld där du hittar folk som hjälper dig ut ur skogen. Du vann grattis!");
     }
+    else
+    {
+        Console.WriteLine("Du kommer fram till en grotta när en brun björn ska ut och äta lite mat där du blev middagen. Du förlorade.");
+    }
+    
 }
 else
 {
-    
+    Console.WriteLine("Okej då dra åt helvete!");
 }
