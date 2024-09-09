@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interaktiv Story", "Interaktiv Story.csproj", "{3CB49B57-2090-4EF5-89A5-D14E706C3AC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GissaTalet", "GissaTalet.csproj", "{93A9B4CE-028B-4050-A50F-5F7D4CBB58BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3CB49B57-2090-4EF5-89A5-D14E706C3AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3CB49B57-2090-4EF5-89A5-D14E706C3AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3CB49B57-2090-4EF5-89A5-D14E706C3AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3CB49B57-2090-4EF5-89A5-D14E706C3AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A9B4CE-028B-4050-A50F-5F7D4CBB58BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A9B4CE-028B-4050-A50F-5F7D4CBB58BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A9B4CE-028B-4050-A50F-5F7D4CBB58BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A9B4CE-028B-4050-A50F-5F7D4CBB58BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {99A70A17-9368-4179-812D-F7B919112502}
+		SolutionGuid = {F573BE15-B207-42E6-A346-9E9CC413B801}
 	EndGlobalSection
 EndGlobal
