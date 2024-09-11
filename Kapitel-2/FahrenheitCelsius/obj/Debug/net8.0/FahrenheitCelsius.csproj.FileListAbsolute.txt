@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-2\FahrenheitCelsius\bin\Debug\net8.0\FahrenheitCelsius.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-2\FahrenheitCelsius\bin\Debug\net8.0\FahrenheitCelsius.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-2\FahrenheitCelsius\bin\Debug\net8.0\FahrenheitCelsius.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-2\FahrenheitCelsius\bin\Debug\net8.0\FahrenheitCelsius.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-2\FahrenheitCelsius\bin\Debug\net8.0\FahrenheitCelsius.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-2\FahrenheitCelsius\obj\Debug\net8.0\FahrenheitCelsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-2\FahrenheitCelsius\obj\Debug\net8.0\FahrenheitCelsius.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-2\FahrenheitCelsius\obj\Debug\net8.0\FahrenheitCelsius.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-2\FahrenheitCelsius\obj\Debug\net8.0\FahrenheitCelsius.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-2\FahrenheitCelsius\obj\Debug\net8.0\FahrenheitCelsius.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-2\FahrenheitCelsius\obj\Debug\net8.0\FahrenheitCelsius.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-2\FahrenheitCelsius\obj\Debug\net8.0\refint\FahrenheitCelsius.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-2\FahrenheitCelsius\obj\Debug\net8.0\FahrenheitCelsius.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-2\FahrenheitCelsius\obj\Debug\net8.0\FahrenheitCelsius.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-2\FahrenheitCelsius\obj\Debug\net8.0\ref\FahrenheitCelsius.dll
