@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EngChart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b398e8cdafccd767b59466e06a473ac087e1118")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35b8ccc5ef3d4204febe891bdb7b71d255864990")]
 [assembly: System.Reflection.AssemblyProductAttribute("EngChart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EngChart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
