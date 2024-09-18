@@ -29,7 +29,7 @@ while (true)
     // Kontroll om gissning är korrekt?
     if (gissning == slumptal)
     {
-        Console.WriteLine($"Rätt gissat! På {antal} gånger. Min herre.");
+        Console.WriteLine($"Rätt gissat! På {antal} gånger.jMin herre.");
         break;
     }
     else if (gissning > slumptal)
