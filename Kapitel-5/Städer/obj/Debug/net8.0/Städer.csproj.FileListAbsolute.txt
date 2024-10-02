@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Städer\bin\Debug\net8.0\Städer.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Städer\bin\Debug\net8.0\Städer.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Städer\bin\Debug\net8.0\Städer.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Städer\bin\Debug\net8.0\Städer.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Städer\bin\Debug\net8.0\Städer.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Städer\obj\Debug\net8.0\Städer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Städer\obj\Debug\net8.0\Städer.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Städer\obj\Debug\net8.0\Städer.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Städer\obj\Debug\net8.0\Städer.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Städer\obj\Debug\net8.0\Städer.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Städer\obj\Debug\net8.0\Städer.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Städer\obj\Debug\net8.0\refint\Städer.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Städer\obj\Debug\net8.0\Städer.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Städer\obj\Debug\net8.0\Städer.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Städer\obj\Debug\net8.0\ref\Städer.dll

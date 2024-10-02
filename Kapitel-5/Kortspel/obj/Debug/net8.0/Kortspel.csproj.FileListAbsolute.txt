@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Kortspel\bin\Debug\net8.0\Kortspel.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Kortspel\bin\Debug\net8.0\Kortspel.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Kortspel\bin\Debug\net8.0\Kortspel.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Kortspel\bin\Debug\net8.0\Kortspel.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Kortspel\bin\Debug\net8.0\Kortspel.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Kortspel\obj\Debug\net8.0\Kortspel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Kortspel\obj\Debug\net8.0\Kortspel.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Kortspel\obj\Debug\net8.0\Kortspel.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Kortspel\obj\Debug\net8.0\Kortspel.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Kortspel\obj\Debug\net8.0\Kortspel.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Kortspel\obj\Debug\net8.0\Kortspel.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Kortspel\obj\Debug\net8.0\refint\Kortspel.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Kortspel\obj\Debug\net8.0\Kortspel.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Kortspel\obj\Debug\net8.0\Kortspel.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-PRRPRR01\te23e-prog1-TE23E-Elias-Engstrom\Kapitel-5\Kortspel\obj\Debug\net8.0\ref\Kortspel.dll
