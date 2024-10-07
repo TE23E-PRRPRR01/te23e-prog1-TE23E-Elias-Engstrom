@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Prover\Prov1b\bin\Debug\net8.0\Prov1b.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Prover\Prov1b\bin\Debug\net8.0\Prov1b.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Prover\Prov1b\bin\Debug\net8.0\Prov1b.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Prover\Prov1b\bin\Debug\net8.0\Prov1b.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Prover\Prov1b\bin\Debug\net8.0\Prov1b.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Prover\Prov1b\obj\Debug\net8.0\Prov1b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Prover\Prov1b\obj\Debug\net8.0\Prov1b.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Prover\Prov1b\obj\Debug\net8.0\Prov1b.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Prover\Prov1b\obj\Debug\net8.0\Prov1b.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Prover\Prov1b\obj\Debug\net8.0\Prov1b.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Prover\Prov1b\obj\Debug\net8.0\Prov1b.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Prover\Prov1b\obj\Debug\net8.0\refint\Prov1b.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Prover\Prov1b\obj\Debug\net8.0\Prov1b.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Prover\Prov1b\obj\Debug\net8.0\Prov1b.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Prover\Prov1b\obj\Debug\net8.0\ref\Prov1b.dll
