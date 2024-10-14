@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Listor\bin\Debug\net8.0\Listor.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Listor\bin\Debug\net8.0\Listor.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Listor\bin\Debug\net8.0\Listor.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Listor\bin\Debug\net8.0\Listor.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Listor\bin\Debug\net8.0\Listor.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Listor\obj\Debug\net8.0\Listor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Listor\obj\Debug\net8.0\Listor.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Listor\obj\Debug\net8.0\Listor.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Listor\obj\Debug\net8.0\Listor.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Listor\obj\Debug\net8.0\Listor.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Listor\obj\Debug\net8.0\Listor.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Listor\obj\Debug\net8.0\refint\Listor.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Listor\obj\Debug\net8.0\Listor.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Listor\obj\Debug\net8.0\Listor.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Listor\obj\Debug\net8.0\ref\Listor.dll
