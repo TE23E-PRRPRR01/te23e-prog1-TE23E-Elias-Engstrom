@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MorseKod\bin\Debug\net8.0\MorseKod.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MorseKod\bin\Debug\net8.0\MorseKod.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MorseKod\bin\Debug\net8.0\MorseKod.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MorseKod\bin\Debug\net8.0\MorseKod.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MorseKod\bin\Debug\net8.0\MorseKod.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MorseKod\obj\Debug\net8.0\MorseKod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MorseKod\obj\Debug\net8.0\MorseKod.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MorseKod\obj\Debug\net8.0\MorseKod.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MorseKod\obj\Debug\net8.0\MorseKod.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MorseKod\obj\Debug\net8.0\MorseKod.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MorseKod\obj\Debug\net8.0\MorseKod.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MorseKod\obj\Debug\net8.0\refint\MorseKod.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MorseKod\obj\Debug\net8.0\MorseKod.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MorseKod\obj\Debug\net8.0\MorseKod.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MorseKod\obj\Debug\net8.0\ref\MorseKod.dll
