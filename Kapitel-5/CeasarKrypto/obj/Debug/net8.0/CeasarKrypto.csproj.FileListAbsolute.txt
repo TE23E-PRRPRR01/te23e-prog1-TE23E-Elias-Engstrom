@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\CeasarKrypto\bin\Debug\net8.0\CeasarKrypto.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\CeasarKrypto\bin\Debug\net8.0\CeasarKrypto.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\CeasarKrypto\bin\Debug\net8.0\CeasarKrypto.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\CeasarKrypto\bin\Debug\net8.0\CeasarKrypto.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\CeasarKrypto\bin\Debug\net8.0\CeasarKrypto.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\CeasarKrypto\obj\Debug\net8.0\CeasarKrypto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\CeasarKrypto\obj\Debug\net8.0\CeasarKrypto.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\CeasarKrypto\obj\Debug\net8.0\CeasarKrypto.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\CeasarKrypto\obj\Debug\net8.0\CeasarKrypto.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\CeasarKrypto\obj\Debug\net8.0\CeasarKrypto.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\CeasarKrypto\obj\Debug\net8.0\CeasarKrypto.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\CeasarKrypto\obj\Debug\net8.0\refint\CeasarKrypto.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\CeasarKrypto\obj\Debug\net8.0\CeasarKrypto.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\CeasarKrypto\obj\Debug\net8.0\CeasarKrypto.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\CeasarKrypto\obj\Debug\net8.0\ref\CeasarKrypto.dll
