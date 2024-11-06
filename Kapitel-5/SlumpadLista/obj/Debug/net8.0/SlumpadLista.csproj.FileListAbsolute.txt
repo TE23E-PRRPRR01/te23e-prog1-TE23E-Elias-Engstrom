@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\SlumpadLista\bin\Debug\net8.0\SlumpadLista.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\SlumpadLista\bin\Debug\net8.0\SlumpadLista.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\SlumpadLista\bin\Debug\net8.0\SlumpadLista.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\SlumpadLista\bin\Debug\net8.0\SlumpadLista.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\SlumpadLista\bin\Debug\net8.0\SlumpadLista.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\SlumpadLista\obj\Debug\net8.0\SlumpadLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\SlumpadLista\obj\Debug\net8.0\SlumpadLista.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\SlumpadLista\obj\Debug\net8.0\SlumpadLista.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\SlumpadLista\obj\Debug\net8.0\SlumpadLista.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\SlumpadLista\obj\Debug\net8.0\SlumpadLista.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\SlumpadLista\obj\Debug\net8.0\SlumpadLista.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\SlumpadLista\obj\Debug\net8.0\refint\SlumpadLista.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\SlumpadLista\obj\Debug\net8.0\SlumpadLista.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\SlumpadLista\obj\Debug\net8.0\SlumpadLista.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\SlumpadLista\obj\Debug\net8.0\ref\SlumpadLista.dll
