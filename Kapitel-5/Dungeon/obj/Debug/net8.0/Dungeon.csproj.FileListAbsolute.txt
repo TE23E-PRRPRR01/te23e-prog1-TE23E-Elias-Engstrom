@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Dungeon\bin\Debug\net8.0\Dungeon.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Dungeon\bin\Debug\net8.0\Dungeon.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Dungeon\bin\Debug\net8.0\Dungeon.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Dungeon\bin\Debug\net8.0\Dungeon.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Dungeon\bin\Debug\net8.0\Dungeon.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Dungeon\obj\Debug\net8.0\Dungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Dungeon\obj\Debug\net8.0\Dungeon.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Dungeon\obj\Debug\net8.0\Dungeon.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Dungeon\obj\Debug\net8.0\Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Dungeon\obj\Debug\net8.0\Dungeon.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Dungeon\obj\Debug\net8.0\Dungeon.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Dungeon\obj\Debug\net8.0\refint\Dungeon.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Dungeon\obj\Debug\net8.0\Dungeon.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Dungeon\obj\Debug\net8.0\Dungeon.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Dungeon\obj\Debug\net8.0\ref\Dungeon.dll
