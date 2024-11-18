@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForLoopTryParse\bin\Debug\net8.0\ForLoopTryParse.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForLoopTryParse\bin\Debug\net8.0\ForLoopTryParse.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForLoopTryParse\bin\Debug\net8.0\ForLoopTryParse.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForLoopTryParse\bin\Debug\net8.0\ForLoopTryParse.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForLoopTryParse\bin\Debug\net8.0\ForLoopTryParse.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForLoopTryParse\obj\Debug\net8.0\ForLoopTryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForLoopTryParse\obj\Debug\net8.0\ForLoopTryParse.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForLoopTryParse\obj\Debug\net8.0\ForLoopTryParse.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForLoopTryParse\obj\Debug\net8.0\ForLoopTryParse.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForLoopTryParse\obj\Debug\net8.0\ForLoopTryParse.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForLoopTryParse\obj\Debug\net8.0\ForLoopTryParse.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForLoopTryParse\obj\Debug\net8.0\refint\ForLoopTryParse.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForLoopTryParse\obj\Debug\net8.0\ForLoopTryParse.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForLoopTryParse\obj\Debug\net8.0\ForLoopTryParse.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForLoopTryParse\obj\Debug\net8.0\ref\ForLoopTryParse.dll
