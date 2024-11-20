@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForBonanza\bin\Debug\net8.0\ForBonanza.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForBonanza\bin\Debug\net8.0\ForBonanza.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForBonanza\bin\Debug\net8.0\ForBonanza.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForBonanza\bin\Debug\net8.0\ForBonanza.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForBonanza\bin\Debug\net8.0\ForBonanza.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForBonanza\obj\Debug\net8.0\ForBonanza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForBonanza\obj\Debug\net8.0\ForBonanza.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForBonanza\obj\Debug\net8.0\ForBonanza.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForBonanza\obj\Debug\net8.0\ForBonanza.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForBonanza\obj\Debug\net8.0\ForBonanza.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForBonanza\obj\Debug\net8.0\ForBonanza.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForBonanza\obj\Debug\net8.0\refint\ForBonanza.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForBonanza\obj\Debug\net8.0\ForBonanza.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForBonanza\obj\Debug\net8.0\ForBonanza.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-4\ForBonanza\obj\Debug\net8.0\ref\ForBonanza.dll
