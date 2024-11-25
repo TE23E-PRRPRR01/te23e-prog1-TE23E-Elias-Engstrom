@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MikroÖvningar1\bin\Debug\net8.0\MikroÖvningar1.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MikroÖvningar1\bin\Debug\net8.0\MikroÖvningar1.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MikroÖvningar1\bin\Debug\net8.0\MikroÖvningar1.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MikroÖvningar1\bin\Debug\net8.0\MikroÖvningar1.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MikroÖvningar1\bin\Debug\net8.0\MikroÖvningar1.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MikroÖvningar1\obj\Debug\net8.0\MikroÖvningar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MikroÖvningar1\obj\Debug\net8.0\MikroÖvningar1.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MikroÖvningar1\obj\Debug\net8.0\MikroÖvningar1.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MikroÖvningar1\obj\Debug\net8.0\MikroÖvningar1.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MikroÖvningar1\obj\Debug\net8.0\MikroÖvningar1.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MikroÖvningar1\obj\Debug\net8.0\MikroÖvningar1.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MikroÖvningar1\obj\Debug\net8.0\refint\MikroÖvningar1.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MikroÖvningar1\obj\Debug\net8.0\MikroÖvningar1.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MikroÖvningar1\obj\Debug\net8.0\MikroÖvningar1.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\MikroÖvningar1\obj\Debug\net8.0\ref\MikroÖvningar1.dll
