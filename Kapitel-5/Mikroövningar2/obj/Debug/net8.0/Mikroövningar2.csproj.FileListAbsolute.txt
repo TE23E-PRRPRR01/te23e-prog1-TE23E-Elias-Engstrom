@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Mikroövningar2\bin\Debug\net8.0\Mikroövningar2.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Mikroövningar2\bin\Debug\net8.0\Mikroövningar2.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Mikroövningar2\bin\Debug\net8.0\Mikroövningar2.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Mikroövningar2\bin\Debug\net8.0\Mikroövningar2.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Mikroövningar2\bin\Debug\net8.0\Mikroövningar2.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Mikroövningar2\obj\Debug\net8.0\Mikroövningar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Mikroövningar2\obj\Debug\net8.0\Mikroövningar2.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Mikroövningar2\obj\Debug\net8.0\Mikroövningar2.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Mikroövningar2\obj\Debug\net8.0\Mikroövningar2.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Mikroövningar2\obj\Debug\net8.0\Mikroövningar2.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Mikroövningar2\obj\Debug\net8.0\Mikroövningar2.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Mikroövningar2\obj\Debug\net8.0\refint\Mikroövningar2.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Mikroövningar2\obj\Debug\net8.0\Mikroövningar2.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Mikroövningar2\obj\Debug\net8.0\Mikroövningar2.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Mikroövningar2\obj\Debug\net8.0\ref\Mikroövningar2.dll
