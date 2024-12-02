@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Bordsbokning\bin\Debug\net8.0\Bordsbokning.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Bordsbokning\bin\Debug\net8.0\Bordsbokning.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Bordsbokning\bin\Debug\net8.0\Bordsbokning.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Bordsbokning\bin\Debug\net8.0\Bordsbokning.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Bordsbokning\bin\Debug\net8.0\Bordsbokning.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Bordsbokning\obj\Debug\net8.0\Bordsbokning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Bordsbokning\obj\Debug\net8.0\Bordsbokning.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Bordsbokning\obj\Debug\net8.0\Bordsbokning.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Bordsbokning\obj\Debug\net8.0\Bordsbokning.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Bordsbokning\obj\Debug\net8.0\Bordsbokning.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Bordsbokning\obj\Debug\net8.0\Bordsbokning.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Bordsbokning\obj\Debug\net8.0\refint\Bordsbokning.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Bordsbokning\obj\Debug\net8.0\Bordsbokning.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Bordsbokning\obj\Debug\net8.0\Bordsbokning.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-5\Bordsbokning\obj\Debug\net8.0\ref\Bordsbokning.dll
