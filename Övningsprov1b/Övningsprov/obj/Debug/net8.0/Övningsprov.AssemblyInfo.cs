@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Övningsprov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12de1c1351c3260a39809e191b5db7eceec6c4a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6153dc115ed192ad4fd2725eca761303b1c8860c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Övningsprov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Övningsprov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
