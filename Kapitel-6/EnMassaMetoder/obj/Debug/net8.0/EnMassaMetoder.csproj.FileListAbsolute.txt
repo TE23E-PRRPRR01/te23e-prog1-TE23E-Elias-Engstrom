@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\EnMassaMetoder\bin\Debug\net8.0\EnMassaMetoder.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\EnMassaMetoder\bin\Debug\net8.0\EnMassaMetoder.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\EnMassaMetoder\bin\Debug\net8.0\EnMassaMetoder.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\EnMassaMetoder\bin\Debug\net8.0\EnMassaMetoder.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\EnMassaMetoder\bin\Debug\net8.0\EnMassaMetoder.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\refint\EnMassaMetoder.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\EnMassaMetoder.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\EnMassaMetoder\obj\Debug\net8.0\ref\EnMassaMetoder.dll
