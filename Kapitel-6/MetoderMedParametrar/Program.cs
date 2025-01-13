@@ -4,8 +4,10 @@
 Console.Clear();
 
 // Matar celsius för att få ut fahrenheit
-TemperaturOmvandlare(20);
+//TemperaturOmvandlare(20);
 
+// Kastar tärningen och får ett slumptal
+KastaTärning(5);
 
 
 /* **********************************************************************
@@ -58,4 +60,16 @@ static void UpprepaText(string text, int antal)
 static void TemperaturOmvandlare(int celsius)
 {
     Console.WriteLine($"{celsius} i fahrenheit är {celsius * 9/5 + 32}");
+}
+
+/// <summary>
+/// Slumpar ett tal mellan 1-7
+/// </summary>
+/// <param name="antal"></param>
+static void KastaTärning(int antal)
+{
+    for (var i = 0; i < antal; i++)
+    {
+        Console.WriteLine(new Random().Next(1, 7));
+    }
 }
