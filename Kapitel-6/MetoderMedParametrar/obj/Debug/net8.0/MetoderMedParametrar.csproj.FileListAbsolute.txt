@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderMedParametrar\bin\Debug\net8.0\MetoderMedParametrar.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderMedParametrar\bin\Debug\net8.0\MetoderMedParametrar.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderMedParametrar\bin\Debug\net8.0\MetoderMedParametrar.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderMedParametrar\bin\Debug\net8.0\MetoderMedParametrar.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderMedParametrar\bin\Debug\net8.0\MetoderMedParametrar.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderMedParametrar\obj\Debug\net8.0\MetoderMedParametrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderMedParametrar\obj\Debug\net8.0\MetoderMedParametrar.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderMedParametrar\obj\Debug\net8.0\MetoderMedParametrar.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderMedParametrar\obj\Debug\net8.0\MetoderMedParametrar.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderMedParametrar\obj\Debug\net8.0\MetoderMedParametrar.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderMedParametrar\obj\Debug\net8.0\MetoderMedParametrar.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderMedParametrar\obj\Debug\net8.0\refint\MetoderMedParametrar.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderMedParametrar\obj\Debug\net8.0\MetoderMedParametrar.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderMedParametrar\obj\Debug\net8.0\MetoderMedParametrar.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderMedParametrar\obj\Debug\net8.0\ref\MetoderMedParametrar.dll
