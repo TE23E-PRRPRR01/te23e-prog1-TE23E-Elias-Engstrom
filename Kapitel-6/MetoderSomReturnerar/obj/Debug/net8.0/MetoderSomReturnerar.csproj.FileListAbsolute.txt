@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderSomReturnerar\bin\Debug\net8.0\MetoderSomReturnerar.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderSomReturnerar\bin\Debug\net8.0\MetoderSomReturnerar.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderSomReturnerar\bin\Debug\net8.0\MetoderSomReturnerar.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderSomReturnerar\bin\Debug\net8.0\MetoderSomReturnerar.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderSomReturnerar\bin\Debug\net8.0\MetoderSomReturnerar.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderSomReturnerar\obj\Debug\net8.0\MetoderSomReturnerar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderSomReturnerar\obj\Debug\net8.0\MetoderSomReturnerar.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderSomReturnerar\obj\Debug\net8.0\MetoderSomReturnerar.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderSomReturnerar\obj\Debug\net8.0\MetoderSomReturnerar.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderSomReturnerar\obj\Debug\net8.0\MetoderSomReturnerar.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderSomReturnerar\obj\Debug\net8.0\MetoderSomReturnerar.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderSomReturnerar\obj\Debug\net8.0\refint\MetoderSomReturnerar.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderSomReturnerar\obj\Debug\net8.0\MetoderSomReturnerar.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderSomReturnerar\obj\Debug\net8.0\MetoderSomReturnerar.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MetoderSomReturnerar\obj\Debug\net8.0\ref\MetoderSomReturnerar.dll
