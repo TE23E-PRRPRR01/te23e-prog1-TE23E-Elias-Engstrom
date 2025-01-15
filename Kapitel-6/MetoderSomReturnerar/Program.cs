@@ -7,7 +7,8 @@ Console.Clear();
 //Console.WriteLine($"Svaret är {Multiplicera(40, 9.56):F2}");
 //Console.WriteLine($"Svaret är {Dividera(12045.19158325, 514.1594):F5}");
 //Console.WriteLine($"Texten omvänd är {VändText("Måndag")}");
-LäsInHelTal();
+Console.Write("Ange ett tal: ");
+int heltal = LäsInHelTal();
 
 /* **********************************************************************
 *                             M E T O D E R
@@ -59,9 +60,7 @@ static string VändText(string text)
 /// </summary>
 static int LäsInHelTal()
 {
-    int tal = 0;
-    string textSomBlirTal = Console.ReadLine();
-    if(int.TryParse(textSomBlirTal, out tal))
+    if(int.TryParse(Console.ReadLine(), out int tal))
     {
         return tal;
     }
