@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Refaktoring-1\bin\Debug\net8.0\Refaktoring-1.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Refaktoring-1\bin\Debug\net8.0\Refaktoring-1.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Refaktoring-1\bin\Debug\net8.0\Refaktoring-1.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Refaktoring-1\bin\Debug\net8.0\Refaktoring-1.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Refaktoring-1\bin\Debug\net8.0\Refaktoring-1.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Refaktoring-1\obj\Debug\net8.0\Refaktoring-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Refaktoring-1\obj\Debug\net8.0\Refaktoring-1.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Refaktoring-1\obj\Debug\net8.0\Refaktoring-1.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Refaktoring-1\obj\Debug\net8.0\Refaktoring-1.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Refaktoring-1\obj\Debug\net8.0\Refaktoring-1.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Refaktoring-1\obj\Debug\net8.0\Refaktoring-1.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Refaktoring-1\obj\Debug\net8.0\refint\Refaktoring-1.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Refaktoring-1\obj\Debug\net8.0\Refaktoring-1.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Refaktoring-1\obj\Debug\net8.0\Refaktoring-1.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Refaktoring-1\obj\Debug\net8.0\ref\Refaktoring-1.dll
