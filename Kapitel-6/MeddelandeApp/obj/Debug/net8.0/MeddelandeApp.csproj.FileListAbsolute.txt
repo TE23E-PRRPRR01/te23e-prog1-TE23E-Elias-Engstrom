@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MeddelandeApp\bin\Debug\net8.0\MeddelandeApp.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MeddelandeApp\bin\Debug\net8.0\MeddelandeApp.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MeddelandeApp\bin\Debug\net8.0\MeddelandeApp.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MeddelandeApp\bin\Debug\net8.0\MeddelandeApp.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MeddelandeApp\bin\Debug\net8.0\MeddelandeApp.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MeddelandeApp\obj\Debug\net8.0\MeddelandeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MeddelandeApp\obj\Debug\net8.0\MeddelandeApp.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MeddelandeApp\obj\Debug\net8.0\MeddelandeApp.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MeddelandeApp\obj\Debug\net8.0\MeddelandeApp.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MeddelandeApp\obj\Debug\net8.0\MeddelandeApp.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MeddelandeApp\obj\Debug\net8.0\MeddelandeApp.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MeddelandeApp\obj\Debug\net8.0\refint\MeddelandeApp.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MeddelandeApp\obj\Debug\net8.0\MeddelandeApp.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MeddelandeApp\obj\Debug\net8.0\MeddelandeApp.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\MeddelandeApp\obj\Debug\net8.0\ref\MeddelandeApp.dll
