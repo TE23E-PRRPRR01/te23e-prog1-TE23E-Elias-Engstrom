@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Miniräknare\bin\Debug\net8.0\Miniräknare.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Miniräknare\bin\Debug\net8.0\Miniräknare.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Miniräknare\bin\Debug\net8.0\Miniräknare.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Miniräknare\bin\Debug\net8.0\Miniräknare.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Miniräknare\bin\Debug\net8.0\Miniräknare.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Miniräknare\obj\Debug\net8.0\Miniräknare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Miniräknare\obj\Debug\net8.0\Miniräknare.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Miniräknare\obj\Debug\net8.0\Miniräknare.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Miniräknare\obj\Debug\net8.0\Miniräknare.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Miniräknare\obj\Debug\net8.0\Miniräknare.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Miniräknare\obj\Debug\net8.0\Miniräknare.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Miniräknare\obj\Debug\net8.0\refint\Miniräknare.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Miniräknare\obj\Debug\net8.0\Miniräknare.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Miniräknare\obj\Debug\net8.0\Miniräknare.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Miniräknare\obj\Debug\net8.0\ref\Miniräknare.dll
