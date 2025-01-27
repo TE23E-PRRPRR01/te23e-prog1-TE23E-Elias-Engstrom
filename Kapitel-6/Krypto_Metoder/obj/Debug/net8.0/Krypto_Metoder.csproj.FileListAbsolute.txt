@@ -1,0 +1,15 @@
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Krypto_Metoder\bin\Debug\net8.0\Krypto_Metoder.exe
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Krypto_Metoder\bin\Debug\net8.0\Krypto_Metoder.deps.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Krypto_Metoder\bin\Debug\net8.0\Krypto_Metoder.runtimeconfig.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Krypto_Metoder\bin\Debug\net8.0\Krypto_Metoder.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Krypto_Metoder\bin\Debug\net8.0\Krypto_Metoder.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Krypto_Metoder\obj\Debug\net8.0\Krypto_Metoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Krypto_Metoder\obj\Debug\net8.0\Krypto_Metoder.AssemblyInfoInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Krypto_Metoder\obj\Debug\net8.0\Krypto_Metoder.AssemblyInfo.cs
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Krypto_Metoder\obj\Debug\net8.0\Krypto_Metoder.csproj.CoreCompileInputs.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Krypto_Metoder\obj\Debug\net8.0\Krypto_Metoder.sourcelink.json
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Krypto_Metoder\obj\Debug\net8.0\Krypto_Metoder.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Krypto_Metoder\obj\Debug\net8.0\refint\Krypto_Metoder.dll
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Krypto_Metoder\obj\Debug\net8.0\Krypto_Metoder.pdb
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Krypto_Metoder\obj\Debug\net8.0\Krypto_Metoder.genruntimeconfig.cache
+C:\Users\elias.engstrom1\github-classroom\TE23E-Programmering\Kapitel-6\Krypto_Metoder\obj\Debug\net8.0\ref\Krypto_Metoder.dll

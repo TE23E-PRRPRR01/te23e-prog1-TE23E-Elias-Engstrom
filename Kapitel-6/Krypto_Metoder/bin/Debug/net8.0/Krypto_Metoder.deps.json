@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Krypto_Metoder/1.0.0": {
+        "runtime": {
+          "Krypto_Metoder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Krypto_Metoder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
